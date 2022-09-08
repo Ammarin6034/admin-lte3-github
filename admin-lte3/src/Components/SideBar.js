@@ -47,14 +47,14 @@ export default function SideBar() {
               </a>
             </li>
             <li className="nav-item">
-              <a href="/report" className="nav-link">
+              <a href="//https://ammarin6034.github.io/admin-lte3-github/#/report" className="nav-link">
                 <i className="nav-icon fas fa-copy" />
                 <p>𝘼𝙗𝙤𝙪𝙩 𝙪𝙨</p>
                 <span className="right badge badge-danger">New</span>
               </a>
             </li>
             <li className="nav-item">
-              <a href="/Port" className="nav-link">
+              <a href="/https://ammarin6034.github.io/admin-lte3-github/#/Port" className="nav-link">
                 <i className="nav-icon fas fa-th" />
                 <p>𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤</p>
                 <span className="badge badge-info right">6</span>
