@@ -65,7 +65,7 @@ export default function Content() {
               <div className="card-tools">
                 <ul className="pagination pagination-sm">
                   <li className="page-item"><a href="#" className="page-link">«</a></li>
-                  <li className="page-item"><a href="dashboard" className="page-link">1</a></li>
+                  <li className="page-item"><a href="https://ammarin6034.github.io/admin-lte3-github/#/dashboard" className="page-link">1</a></li>
                   <li className="page-item"><a href="report" className="page-link">2</a></li>
                   <li className="page-item"><a href="port" className="page-link">3</a></li>
                   <li className="page-item"><a href="#" className="page-link">»</a></li>
