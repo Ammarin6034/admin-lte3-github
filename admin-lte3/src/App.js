@@ -20,9 +20,9 @@ function App() {
     <SideBar/>
         <Switch>
           <Route component={Content} path="/" exact />
-          <Route component={Dashboard} path="/admin-lte3-github/#/dashboard" />
-          <Route component={Report} path="/admin-lte3-github/#/report" />
-          <Route component={Port} path="/admin-lte3-github/#/Port"/>
+          <Route component={Dashboard} path="/dashboard" />
+          <Route component={Report} path="/report" />
+          <Route component={Port} path="#/Port"/>
         </Switch>
       </Router>
     <Footer/>
