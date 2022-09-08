@@ -41,7 +41,7 @@ export default function SideBar() {
           
           <ul className="nav nav-treeview">
             <li className="nav-item">
-              <a href="/dashboard" className="nav-link active">
+              <a href="/https://ammarin6034.github.io/#/dashboard" className="nav-link active">
                 <i className="far fa-circle nav-icon" />
                 <p>𝙃𝙤𝙢𝙚</p>
               </a>
