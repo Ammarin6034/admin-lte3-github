@@ -20,7 +20,7 @@ function App() {
     <SideBar/>
         <Switch>
           <Route component={Content} path="/" exact />
-          <Route component={Dashboard} path="/https://ammarin6034.github.io/#/dashboard" />
+          <Route component={Dashboard} path="/https://ammarin6034.github.io/admin-lte3-github/#/dashboard" />
           <Route component={Report} path="/report" />
           <Route component={Port} path="#/Port"/>
         </Switch>

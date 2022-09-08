@@ -36,7 +36,7 @@ export default function Content() {
               
             </div>
             
-            <a href="/https://ammarin6034.github.io/#/dashboard" className="small-box-footer">𝘔𝘰𝘳𝘦 𝘪𝘯𝘧𝘰 <i className="fas fa-arrow-circle-right" /></a>
+            <a href="/https://ammarin6034.github.io/admin-lte3-github/#/dashboard" className="small-box-footer">𝘔𝘰𝘳𝘦 𝘪𝘯𝘧𝘰 <i className="fas fa-arrow-circle-right" /></a>
           </div>
         </div>
         {/* ./col */}
@@ -65,7 +65,7 @@ export default function Content() {
               <div className="card-tools">
                 <ul className="pagination pagination-sm">
                   <li className="page-item"><a href="#" className="page-link">«</a></li>
-                  <li className="page-item"><a href="/https://ammarin6034.github.io/#/dashboard" className="page-link">1</a></li>
+                  <li className="page-item"><a href="/https://ammarin6034.github.io/admin-lte3-github/#/dashboard" className="page-link">1</a></li>
                   <li className="page-item"><a href="/report" className="page-link">2</a></li>
                   <li className="page-item"><a href="/Port" className="page-link">3</a></li>
                   <li className="page-item"><a href="#" className="page-link">»</a></li>
