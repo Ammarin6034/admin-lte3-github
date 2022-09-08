@@ -15,7 +15,7 @@ import { HashRouter as Router , Switch , Route} from "react-router-dom";
 function App() {
   return (
    <div Class ="App">
-    <HashRouter basename={'/admin-lte3-github'}>
+    <Router basename={'/admin-lte3-github'}>
     <Heder/>
     <SideBar/>
         <Switch>
@@ -24,7 +24,7 @@ function App() {
           <Route component={Report} path="/report" />
           <Route component={Port} path="#/Port"/>
         </Switch>
-      </HashRouter>
+      </Router>
     <Footer/>
 
     
