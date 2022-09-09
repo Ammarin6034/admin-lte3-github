@@ -50,7 +50,7 @@ export default function Heder() {
         <a href="#" className="dropdown-item">
           {/* Message Start */}
           <div className="media">
-            <img src="pic/AJ.jpg" alt="User Avatar" className="img-size-50 mr-3 img-circle" />
+            <img src="https://scontent.fbkk9-3.fna.fbcdn.net/v/t39.30808-6/191792503_3076941259220619_1619627825429849925_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFtuuQ9-RArugk7chezMQ_COmo9-JxmD_A6aj34nGYP8Ns3MRhfmq5KixqwDvZLH9rGcO7KHNNYLRavln2UALsC&_nc_ohc=GNlZdfYzNSwAX8qw_2U&_nc_zt=23&_nc_ht=scontent.fbkk9-3.fna&oh=00_AT-n0VAPmkYpKzP8Tqg3Qq9tBfSMh4qEI6oxD70op4VlYg&oe=631F8244" alt="User Avatar" className="img-size-50 mr-3 img-circle" />
             <div className="media-body">
               <h3 className="dropdown-item-title">
                 ผศ.ไพฑูรย์ ศรีนิล

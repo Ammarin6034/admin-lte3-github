@@ -7,7 +7,7 @@ export default function SideBar() {
 <aside className="main-sidebar sidebar-dark-primary elevation-4">
   {/* Brand Logo */}
   <a href="index3.html" className="brand-link">
-    <img src="pic/13.jpg" alt="AdminLTE Logo" className="brand-image img-circle elevation-3" style={{opacity: '.8'}} />
+    <img src="https://www.seekpng.com/png/detail/111-1112824_picture-my-portfolio-logo-png.png" alt="AdminLTE Logo" className="brand-image img-circle elevation-3" style={{opacity: '.8'}} />
     <span className="brand-text font-weight-light">Portfolio</span>
   </a>
   {/* Sidebar */}
@@ -15,7 +15,7 @@ export default function SideBar() {
     {/* Sidebar user panel (optional) */}
     <div className="user-panel mt-3 pb-3 mb-3 d-flex">
       <div className="image">
-        <img src="pic/IMG_0667.jpg" className="img-circle elevation-2" alt="User Image" />
+        <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t39.30808-6/301960841_5361219333963312_1731173679147266749_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGwgYbyTN5GVFzI2jqFvhuegfpPdbYfojOB-k91th-iM5YcWmpNeecrk3ix4bZ1dSyN_w9neAIF2wnW4nBW0kuV&_nc_ohc=mzy_mJtRnkQAX8cVVKQ&_nc_zt=23&_nc_ht=scontent.fbkk12-1.fna&oh=00_AT93FX1_6v4Y5EQTY58qGS6hy3XYIIX-sNaVbB4YdnJYIw&oe=631FC461" className="img-circle elevation-2" alt="User Image" />
       </div>
       <div className="info">
         <a href="/" className="d-block">𝘼𝙈𝙈𝘼𝙍𝙄𝙉 𝙎𝘼𝙀𝘽𝙊𝙊𝙉</a>
@@ -41,7 +41,7 @@ export default function SideBar() {
           
           <ul className="nav nav-treeview">
             <li className="nav-item">
-              <a href="/https://ammarin6034.github.io/admin-lte3-github/#/dashboard" className="nav-link active">
+              <a href="/dashboard" className="nav-link active">
                 <i className="far fa-circle nav-icon" />
                 <p>𝙃𝙤𝙢𝙚</p>
               </a>
@@ -57,7 +57,7 @@ export default function SideBar() {
               <a href="/Port" className="nav-link">
                 <i className="nav-icon fas fa-th" />
                 <p>𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤</p>
-                <span className="badge badge-info right">6</span>
+                <span className="badge badge-info right">12</span>
               </a>
             </li>
           </ul>
